@@ -9,7 +9,7 @@ Olá! Me chamo **Arthur Valentim Caldeira** e sou estudante de **Bacharelado em 
 
 Atualmente, sou **estagiário em Infraestrutura/Suporte de TI na Tereme Engenharia**, onde atuo na manutenção e suporte técnico de redes e dispositivos, solucionando problemas de hardware e software.
 
-
+<br>
 <div align="center">
 
 ## 🌐 Social Media
@@ -23,6 +23,7 @@ Atualmente, sou **estagiário em Infraestrutura/Suporte de TI na Tereme Engenhar
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valentimcaldeira100@gmail.com)
 
 </div>
+<br>
 
 <div align="center">
             
@@ -48,6 +49,7 @@ Atualmente, sou **estagiário em Infraestrutura/Suporte de TI na Tereme Engenhar
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React"/>
 &nbsp;&nbsp;&nbsp;
 </div>
+<br>
 
 </div>
 

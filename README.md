@@ -4,6 +4,7 @@
 <br>
 
 </div>
+
 Olá! Me chamo **Arthur Valentim Caldeira** e sou estudante de **Bacharelado em Sistemas de Informação** no *Instituto Federal do Espírito Santo - IFES (Campus Serra)*. Tenho grande interesse em **desenvolvimento de software** e **infraestrutura de TI**, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
 
 Atualmente, sou **estagiário em Infraestrutura/Suporte de TI na Tereme Engenharia**, onde atuo na manutenção e suporte técnico de redes e dispositivos, solucionando problemas de hardware e software.
